@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React.js , next.js , Node.js**
 
-- 📫 How to reach me **jassemtalbi2@gmail.com**
+- 📫 How to reach me **jassemtalbi.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
