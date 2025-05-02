@@ -83,31 +83,7 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jassemtalbi&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jassemtalbi" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jassemtalbi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 ### 🌍 Languages & Soft Skills
 
 - 🗣️ Languages: Arabic (Native), English (Fluent), French (Fluent)  
 - 🤝 Soft Skills: Agile Collaboration, Problem Solving, Communication, Adaptability
-
----
-
-### 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jassemtalbi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
